@@ -4,11 +4,11 @@
 
 html example:
 
-* <div class="container">
-*     <img src="">
-*     <img src="">
-*     <img src="">    
-* </div>
+### <div class="container">
+###     <img src="">
+###     <img src="">
+###     <img src="">    
+### </div>
 
 usage:
 
