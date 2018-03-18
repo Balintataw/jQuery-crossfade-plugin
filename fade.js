@@ -20,22 +20,6 @@ $(document).ready(function() {
     }(jQuery))
 })
 
-// html example:
-//
-// <div class="container">
-//     <img src="">
-//     <img src="">
-//     <img src="">    
-// </div>
-//
-// usage:
-//
-// $('.container').fade()
-//
-// set delay time:
-//
-// numberInMilliseconds = 7000
-// $('.container').fade({delay: numberInMilliseconds})
 
 
 
