@@ -3,13 +3,13 @@
 ###Check it out here https://balintataw.github.io/jQuery-crossfade-plugin/
 
 html example:
-
-### <div class="container">
-###     <img src="">
-###     <img src="">
-###     <img src="">    
-### </div>
-
+```
+ <div class="container">
+     <img src="">
+     <img src="">
+     <img src="">    
+ </div>
+```
 usage:
 
 $('.container').fade()
