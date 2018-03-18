@@ -6,7 +6,6 @@ $(document).ready(function() {
                 delay: 3000
             }, options );
 
-            console.log($(this))
             var $this = this
             this.css('position', 'relative')
             this.children().css('position', 'absolute')
